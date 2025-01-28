@@ -1,0 +1,22 @@
+[
+  {
+    "categoryId": 2025101,
+    "title": "Do First",
+    "todos": []
+  },
+  {
+    "categoryId": 2025102,
+    "title": "Schedule",
+    "todos": []
+  },
+  {
+    "categoryId": 2025103,
+    "title": "Do later",
+    "todos": []
+  },
+  {
+    "categoryId": 2025104,
+    "title": "Other",
+    "todos": []
+  }
+]
