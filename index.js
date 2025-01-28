@@ -32,8 +32,8 @@ const resetJsonFile = () => {
 // アプリ起動時にデータをリセット
 // resetJsonFile();
 
-// 一定時間ごとにリセット
-setInterval(resetJsonFile, 10 * 60 * 1000);
+// 一定時間ごとにリセット 時間/分/秒/ミリ
+setInterval(resetJsonFile, 24 * 60 * 60 * 1000);
 
 // タスクをJSONファイルから読み込む
 const loadTodos = () => {
